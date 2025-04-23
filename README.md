@@ -1,3 +1,9 @@
-# stats507-coursework
-This repository is for stats507(Data Science and Analytics using Python) at UMich, 2024Fall. This course offers a quick Python intro, covers key data science libraries (numpy, scipy, pandas, scikit-learn), git, debugging, and ends with PyTorch for deep learning.
-Assignments are to be posted here.
+# Emotion Classification Project
+
+## Files
+- `emotion_classification.ipynb`: Main implementation notebook
+- `requirements.txt`: Python dependencies
+
+## Setup
+1. Install requirements: `pip install -r requirements.txt`
+2. Open the Jupyter notebook
